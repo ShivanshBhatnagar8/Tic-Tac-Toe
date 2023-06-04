@@ -1,0 +1,36 @@
+@media (max-width: 56.25em) {
+  html {
+    font-size: 59%;
+  }
+}
+@media (max-width: 44em) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (max-width: 38em) {
+  html {
+    font-size: 45%;
+  }
+}
+@media (max-width: 28.125em) {
+  html {
+    font-size: 40%;
+  }
+  .game-section {
+    height: 90vh;
+  }
+}
+@media (max-width: 25em) {
+  html {
+    font-size: 35%;
+  }
+  .gameboard {
+    width: 45rem;
+    height: 35rem;
+  }
+  button {
+    font-size: 1.4rem;
+    padding: 1.2rem 3rem;
+  }
+}
