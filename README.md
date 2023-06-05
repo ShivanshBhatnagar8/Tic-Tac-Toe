@@ -10,6 +10,4 @@ HTML,CSS.JavaScript
 
 - [@ShivanshBhatnagar8](https://github.com/ShivanshBhatnagar8)
 
-## Important Note
 
-The webpage is not responsive
